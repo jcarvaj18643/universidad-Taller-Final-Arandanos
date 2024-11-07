@@ -1,0 +1,638 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Maduro",
+      "points": [
+        [
+          22.55728429985855,
+          68.1018387553041
+        ],
+        [
+          23.405940594059402,
+          65.83875530410184
+        ],
+        [
+          27.507779349363503,
+          64.56577086280058
+        ],
+        [
+          30.760961810466753,
+          65.6973125884017
+        ],
+        [
+          32.17538896746818,
+          67.67751060820369
+        ],
+        [
+          32.31683168316832,
+          71.07213578500708
+        ],
+        [
+          31.32673267326733,
+          73.75954738330977
+        ],
+        [
+          29.34653465346534,
+          75.03253182461104
+        ],
+        [
+          25.951909476661953,
+          76.87128712871288
+        ],
+        [
+          23.971711456859964,
+          77.01272984441302
+        ],
+        [
+          22.698727015558703,
+          72.06223479490806
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Maduro",
+      "points": [
+        [
+          21.14285714285714,
+          73.1937765205092
+        ],
+        [
+          18.031117397454025,
+          71.92079207920793
+        ],
+        [
+          14.636492220650638,
+          72.48656294200849
+        ],
+        [
+          14.070721357850076,
+          76.87128712871288
+        ],
+        [
+          12.373408769448375,
+          80.12446958981613
+        ],
+        [
+          13.080622347949074,
+          84.79207920792079
+        ],
+        [
+          13.5049504950495,
+          88.1867043847242
+        ],
+        [
+          19.445544554455438,
+          88.75247524752476
+        ],
+        [
+          23.264497878359265,
+          85.35785007072137
+        ],
+        [
+          25.527581329561528,
+          80.83168316831684
+        ],
+        [
+          24.961810466760966,
+          78.28571428571429
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Maduro",
+      "points": [
+        [
+          27.083451202263078,
+          77.57850070721358
+        ],
+        [
+          32.74115983026874,
+          76.16407355021217
+        ],
+        [
+          34.72135785007072,
+          79.84158415841584
+        ],
+        [
+          36.27722772277228,
+          83.8019801980198
+        ],
+        [
+          35.57001414427157,
+          88.8939179632249
+        ],
+        [
+          33.58981612446959,
+          92.42998585572843
+        ],
+        [
+          29.34653465346534,
+          93.84441301272985
+        ],
+        [
+          25.951909476661953,
+          92.57142857142857
+        ],
+        [
+          23.971711456859964,
+          88.61103253182462
+        ],
+        [
+          23.405940594059402,
+          86.63083451202263
+        ],
+        [
+          25.669024045261665,
+          82.81188118811882
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Maduro",
+      "points": [
+        [
+          13.363507779349362,
+          89.17680339462518
+        ],
+        [
+          13.363507779349362,
+          93.13719943422915
+        ],
+        [
+          14.35360678925035,
+          97.0975954738331
+        ],
+        [
+          16.192362093352187,
+          101.76520509193777
+        ],
+        [
+          21.14285714285714,
+          102.61386138613862
+        ],
+        [
+          26.234794908062227,
+          102.47241867043847
+        ],
+        [
+          27.79066478076379,
+          97.80480905233381
+        ],
+        [
+          28.07355021216408,
+          93.98585572843
+        ],
+        [
+          24.961810466760966,
+          90.44978783592646
+        ],
+        [
+          23.830268741159827,
+          87.9038189533239
+        ],
+        [
+          18.879773691654876,
+          89.31824611032532
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Maduro",
+      "points": [
+        [
+          27.507779349363503,
+          103.17963224893919
+        ],
+        [
+          31.468175388967467,
+          103.88684582743988
+        ],
+        [
+          34.155586987270155,
+          101.76520509193777
+        ],
+        [
+          35.42857142857143,
+          97.23903818953325
+        ],
+        [
+          36.98444130127298,
+          92.2885431400283
+        ],
+        [
+          36.41867043847242,
+          88.61103253182462
+        ],
+        [
+          33.44837340876944,
+          91.15700141442716
+        ],
+        [
+          29.205091937765204,
+          94.12729844413013
+        ],
+        [
+          27.649222065063654,
+          97.38048090523338
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Maduro",
+      "points": [
+        [
+          117.18246110325319,
+          78.14427157001415
+        ],
+        [
+          115.34370579915134,
+          75.73974540311174
+        ],
+        [
+          112.37340876944836,
+          73.47666195190948
+        ],
+        [
+          109.40311173974541,
+          74.32531824611033
+        ],
+        [
+          106.14992927864213,
+          79.7001414427157
+        ],
+        [
+          105.44271570014143,
+          84.65063649222066
+        ],
+        [
+          107.42291371994341,
+          90.02545968882603
+        ],
+        [
+          109.68599717114569,
+          92.2885431400283
+        ],
+        [
+          112.93917963224894,
+          93.13719943422915
+        ],
+        [
+          117.60678925035361,
+          91.29844413012731
+        ],
+        [
+          119.58698727015559,
+          83.37765205091938
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Maduro",
+      "points": [
+        [
+          118.45544554455444,
+          77.43705799151344
+        ],
+        [
+          119.02121640735501,
+          72.20367751060822
+        ],
+        [
+          121.99151343705799,
+          69.37482319660538
+        ],
+        [
+          126.51768033946252,
+          69.23338048090524
+        ],
+        [
+          127.0,
+          70.01251224023503
+        ],
+        [
+          127.0,
+          84.93352192362094
+        ],
+        [
+          125.66902404526166,
+          86.77227722772278
+        ],
+        [
+          120.71852899575671,
+          84.93352192362094
+        ],
+        [
+          118.45544554455444,
+          81.53889674681754
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Maduro",
+      "points": [
+        [
+          118.45544554455444,
+          89.31824611032532
+        ],
+        [
+          121.00141442715699,
+          94.6930693069307
+        ],
+        [
+          124.96181046676097,
+          96.3903818953324
+        ],
+        [
+          127.0,
+          94.96364922206507
+        ],
+        [
+          127.0,
+          89.31824611032532
+        ],
+        [
+          127.0,
+          85.64073550212164
+        ],
+        [
+          121.85007072135784,
+          85.07496463932108
+        ],
+        [
+          119.72842998585571,
+          84.50919377652052
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Maduro",
+      "points": [
+        [
+          90.87411598302688,
+          47.87553041018388
+        ],
+        [
+          95.40028288543141,
+          43.49080622347949
+        ],
+        [
+          98.08769448373408,
+          41.08628005657709
+        ],
+        [
+          98.79490806223478,
+          37.83309759547383
+        ],
+        [
+          98.08769448373408,
+          34.721357850070724
+        ],
+        [
+          95.96605374823196,
+          31.75106082036775
+        ],
+        [
+          93.13719943422913,
+          28.356435643564357
+        ],
+        [
+          90.73267326732673,
+          28.073550212164076
+        ],
+        [
+          92.85431400282886,
+          35.57001414427157
+        ],
+        [
+          92.00565770862801,
+          41.93493635077793
+        ],
+        [
+          90.73267326732673,
+          46.46110325318246
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Maduro",
+      "points": [
+        [
+          92.28854314002828,
+          27.224893917963225
+        ],
+        [
+          93.13719943422913,
+          21.850070721357852
+        ],
+        [
+          95.25884016973126,
+          19.162659123055164
+        ],
+        [
+          99.92644978783594,
+          19.304101838755304
+        ],
+        [
+          105.58415841584159,
+          21.425742574257427
+        ],
+        [
+          107.14002828854314,
+          24.67892503536068
+        ],
+        [
+          107.28147100424329,
+          30.336633663366335
+        ],
+        [
+          105.86704384724186,
+          33.73125884016973
+        ],
+        [
+          105.01838755304101,
+          34.86280056577086
+        ],
+        [
+          101.05799151343706,
+          37.691654879773694
+        ],
+        [
+          99.78500707213578,
+          37.408769448373405
+        ],
+        [
+          97.23903818953323,
+          31.326732673267326
+        ],
+        [
+          94.55162659123056,
+          29.346534653465348
+        ],
+        [
+          93.4200848656294,
+          28.356435643564357
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Maduro",
+      "points": [
+        [
+          107.84724186704383,
+          28.639321074964638
+        ],
+        [
+          110.67609618104666,
+          31.326732673267326
+        ],
+        [
+          111.38330975954739,
+          36.84299858557284
+        ],
+        [
+          110.67609618104666,
+          42.925035360678926
+        ],
+        [
+          109.40311173974541,
+          46.88543140028288
+        ],
+        [
+          106.85714285714286,
+          47.73408769448373
+        ],
+        [
+          102.89674681753888,
+          44.48090523338048
+        ],
+        [
+          100.06789250353606,
+          40.944837340876944
+        ],
+        [
+          99.07779349363508,
+          38.823196605374825
+        ],
+        [
+          102.33097595473834,
+          36.41867043847242
+        ],
+        [
+          106.00848656294201,
+          34.86280056577086
+        ],
+        [
+          107.28147100424329,
+          30.9024045261669
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Biche",
+      "points": [
+        [
+          105.30127298444128,
+          47.59264497878359
+        ],
+        [
+          104.02828854314004,
+          52.401697312588404
+        ],
+        [
+          102.33097595473834,
+          55.654879773691654
+        ],
+        [
+          96.81471004243281,
+          56.07920792079208
+        ],
+        [
+          94.26874115983026,
+          53.816124469589816
+        ],
+        [
+          91.58132956152758,
+          50.13861386138614
+        ],
+        [
+          93.98585572842998,
+          45.18811881188119
+        ],
+        [
+          100.06789250353606,
+          40.66195190947666
+        ],
+        [
+          102.61386138613861,
+          43.77369165487978
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "arandano_aug_287.jpg",
+  "imageData": "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",
+  "imageHeight": 128,
+  "imageWidth": 128
+}
