@@ -34,3 +34,10 @@ labelme
 2. Rojo
 3. Biche
 4. Otro
+
+# Reparticion
+
+1. Henry: 1 - 139
+2. Johanna: 140 - 279
+3. Eddison: 280 - 418
+4. gilberto: 419 - 557
