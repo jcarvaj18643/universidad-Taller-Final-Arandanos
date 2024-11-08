@@ -4,13 +4,13 @@
             "file_name": "arandano_aug_29.jpg",
             "height": 128,
             "width": 128,
-            "id": 3
+            "id": 25
         }
     ],
     "annotations": [
         {
             "id": 1,
-            "image_id": 3,
+            "image_id": 25,
             "category_id": 3,
             "segmentation": [
                 [
@@ -55,8 +55,8 @@
         },
         {
             "id": 2,
-            "image_id": 3,
-            "category_id": 2,
+            "image_id": 25,
+            "category_id": 1,
             "segmentation": [
                 [
                     102.75530410183876,
@@ -104,8 +104,8 @@
         },
         {
             "id": 3,
-            "image_id": 3,
-            "category_id": 2,
+            "image_id": 25,
+            "category_id": 1,
             "segmentation": [
                 [
                     86.9137199434229,
@@ -149,11 +149,11 @@
     "categories": [
         {
             "id": 1,
-            "name": "maduro"
+            "name": "Biche"
         },
         {
             "id": 2,
-            "name": "Biche"
+            "name": "Rojo"
         },
         {
             "id": 3,
@@ -161,7 +161,7 @@
         },
         {
             "id": 4,
-            "name": "rojo"
+            "name": "maduro"
         }
     ]
 }

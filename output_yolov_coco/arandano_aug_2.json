@@ -4,14 +4,14 @@
             "file_name": "arandano_aug_2.jpg",
             "height": 128,
             "width": 128,
-            "id": 2
+            "id": 8
         }
     ],
     "annotations": [
         {
             "id": 1,
-            "image_id": 2,
-            "category_id": 1,
+            "image_id": 8,
+            "category_id": 4,
             "segmentation": [
                 [
                     38.522900763358784,
@@ -49,8 +49,8 @@
         },
         {
             "id": 2,
-            "image_id": 2,
-            "category_id": 1,
+            "image_id": 8,
+            "category_id": 4,
             "segmentation": [
                 [
                     74.97328244274809,
@@ -84,8 +84,8 @@
         },
         {
             "id": 3,
-            "image_id": 2,
-            "category_id": 1,
+            "image_id": 8,
+            "category_id": 4,
             "segmentation": [
                 [
                     21.91984732824428,
@@ -127,8 +127,8 @@
         },
         {
             "id": 4,
-            "image_id": 2,
-            "category_id": 1,
+            "image_id": 8,
+            "category_id": 4,
             "segmentation": [
                 [
                     67.33969465648855,
@@ -162,8 +162,8 @@
         },
         {
             "id": 5,
-            "image_id": 2,
-            "category_id": 1,
+            "image_id": 8,
+            "category_id": 4,
             "segmentation": [
                 [
                     50.73664122137405,
@@ -207,8 +207,8 @@
         },
         {
             "id": 6,
-            "image_id": 2,
-            "category_id": 1,
+            "image_id": 8,
+            "category_id": 4,
             "segmentation": [
                 [
                     25.354961832061072,
@@ -242,8 +242,8 @@
         },
         {
             "id": 7,
-            "image_id": 2,
-            "category_id": 1,
+            "image_id": 8,
+            "category_id": 4,
             "segmentation": [
                 [
                     11.42366412213741,
@@ -283,8 +283,8 @@
         },
         {
             "id": 8,
-            "image_id": 2,
-            "category_id": 1,
+            "image_id": 8,
+            "category_id": 4,
             "segmentation": [
                 [
                     45.774809160305345,
@@ -326,8 +326,8 @@
         },
         {
             "id": 9,
-            "image_id": 2,
-            "category_id": 1,
+            "image_id": 8,
+            "category_id": 4,
             "segmentation": [
                 [
                     91.57633587786259,
@@ -363,8 +363,8 @@
         },
         {
             "id": 10,
-            "image_id": 2,
-            "category_id": 1,
+            "image_id": 8,
+            "category_id": 4,
             "segmentation": [
                 [
                     108.1793893129771,
@@ -404,8 +404,8 @@
         },
         {
             "id": 11,
-            "image_id": 2,
-            "category_id": 1,
+            "image_id": 8,
+            "category_id": 4,
             "segmentation": [
                 [
                     118.67557251908397,
@@ -443,8 +443,8 @@
         },
         {
             "id": 12,
-            "image_id": 2,
-            "category_id": 1,
+            "image_id": 8,
+            "category_id": 4,
             "segmentation": [
                 [
                     58.75190839694657,
@@ -478,8 +478,8 @@
         },
         {
             "id": 13,
-            "image_id": 2,
-            "category_id": 1,
+            "image_id": 8,
+            "category_id": 4,
             "segmentation": [
                 [
                     96.53816793893128,
@@ -515,11 +515,11 @@
     "categories": [
         {
             "id": 1,
-            "name": "maduro"
+            "name": "Biche"
         },
         {
             "id": 2,
-            "name": "Biche"
+            "name": "Rojo"
         },
         {
             "id": 3,
@@ -527,7 +527,7 @@
         },
         {
             "id": 4,
-            "name": "rojo"
+            "name": "maduro"
         }
     ]
 }

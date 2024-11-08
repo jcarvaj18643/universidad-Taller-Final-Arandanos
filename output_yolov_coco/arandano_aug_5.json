@@ -4,14 +4,14 @@
             "file_name": "arandano_aug_5.jpg",
             "height": 128,
             "width": 128,
-            "id": 6
+            "id": 42
         }
     ],
     "annotations": [
         {
             "id": 1,
-            "image_id": 6,
-            "category_id": 1,
+            "image_id": 42,
+            "category_id": 4,
             "segmentation": [
                 [
                     86.80534351145039,
@@ -55,8 +55,8 @@
         },
         {
             "id": 2,
-            "image_id": 6,
-            "category_id": 1,
+            "image_id": 42,
+            "category_id": 4,
             "segmentation": [
                 [
                     95.39312977099235,
@@ -98,8 +98,8 @@
         },
         {
             "id": 3,
-            "image_id": 6,
-            "category_id": 1,
+            "image_id": 42,
+            "category_id": 4,
             "segmentation": [
                 [
                     106.46183206106869,
@@ -135,8 +135,8 @@
         },
         {
             "id": 4,
-            "image_id": 6,
-            "category_id": 1,
+            "image_id": 42,
+            "category_id": 4,
             "segmentation": [
                 [
                     124.7824427480916,
@@ -174,8 +174,8 @@
         },
         {
             "id": 5,
-            "image_id": 6,
-            "category_id": 1,
+            "image_id": 42,
+            "category_id": 4,
             "segmentation": [
                 [
                     86.6145038167939,
@@ -215,8 +215,8 @@
         },
         {
             "id": 6,
-            "image_id": 6,
-            "category_id": 1,
+            "image_id": 42,
+            "category_id": 4,
             "segmentation": [
                 [
                     53.02671755725191,
@@ -252,8 +252,8 @@
         },
         {
             "id": 7,
-            "image_id": 6,
-            "category_id": 1,
+            "image_id": 42,
+            "category_id": 4,
             "segmentation": [
                 [
                     114.47709923664121,
@@ -293,8 +293,8 @@
         },
         {
             "id": 8,
-            "image_id": 6,
-            "category_id": 1,
+            "image_id": 42,
+            "category_id": 4,
             "segmentation": [
                 [
                     57.225190839694655,
@@ -326,8 +326,8 @@
         },
         {
             "id": 9,
-            "image_id": 6,
-            "category_id": 1,
+            "image_id": 42,
+            "category_id": 4,
             "segmentation": [
                 [
                     100.73664122137404,
@@ -361,8 +361,8 @@
         },
         {
             "id": 10,
-            "image_id": 6,
-            "category_id": 1,
+            "image_id": 42,
+            "category_id": 4,
             "segmentation": [
                 [
                     72.8740458015267,
@@ -398,8 +398,8 @@
         },
         {
             "id": 11,
-            "image_id": 6,
-            "category_id": 1,
+            "image_id": 42,
+            "category_id": 4,
             "segmentation": [
                 [
                     32.416030534351144,
@@ -437,8 +437,8 @@
         },
         {
             "id": 12,
-            "image_id": 6,
-            "category_id": 1,
+            "image_id": 42,
+            "category_id": 4,
             "segmentation": [
                 [
                     123.44656488549617,
@@ -466,8 +466,8 @@
         },
         {
             "id": 13,
-            "image_id": 6,
-            "category_id": 1,
+            "image_id": 42,
+            "category_id": 4,
             "segmentation": [
                 [
                     115.81297709923663,
@@ -499,8 +499,8 @@
         },
         {
             "id": 14,
-            "image_id": 6,
-            "category_id": 1,
+            "image_id": 42,
+            "category_id": 4,
             "segmentation": [
                 [
                     75.73664122137404,
@@ -530,8 +530,8 @@
         },
         {
             "id": 15,
-            "image_id": 6,
-            "category_id": 1,
+            "image_id": 42,
+            "category_id": 4,
             "segmentation": [
                 [
                     42.53053435114504,
@@ -565,11 +565,11 @@
     "categories": [
         {
             "id": 1,
-            "name": "maduro"
+            "name": "Biche"
         },
         {
             "id": 2,
-            "name": "Biche"
+            "name": "Rojo"
         },
         {
             "id": 3,
@@ -577,7 +577,7 @@
         },
         {
             "id": 4,
-            "name": "rojo"
+            "name": "maduro"
         }
     ]
 }

@@ -4,14 +4,14 @@
             "file_name": "arandano_aug_6.jpg",
             "height": 128,
             "width": 128,
-            "id": 7
+            "id": 46
         }
     ],
     "annotations": [
         {
             "id": 1,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     78.40839694656489,
@@ -41,8 +41,8 @@
         },
         {
             "id": 2,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     73.44656488549617,
@@ -72,8 +72,8 @@
         },
         {
             "id": 3,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     92.72137404580153,
@@ -103,8 +103,8 @@
         },
         {
             "id": 4,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     70.77480916030535,
@@ -136,8 +136,8 @@
         },
         {
             "id": 5,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     98.44656488549617,
@@ -169,8 +169,8 @@
         },
         {
             "id": 6,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     79.5534351145038,
@@ -200,8 +200,8 @@
         },
         {
             "id": 7,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     51.11832061068703,
@@ -235,8 +235,8 @@
         },
         {
             "id": 8,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     47.68320610687024,
@@ -266,8 +266,8 @@
         },
         {
             "id": 9,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     54.74427480916031,
@@ -297,8 +297,8 @@
         },
         {
             "id": 10,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     48.44656488549618,
@@ -328,8 +328,8 @@
         },
         {
             "id": 11,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     96.1564885496183,
@@ -359,8 +359,8 @@
         },
         {
             "id": 12,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     88.90458015267174,
@@ -388,8 +388,8 @@
         },
         {
             "id": 13,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     109.13358778625954,
@@ -423,8 +423,8 @@
         },
         {
             "id": 14,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     41.00381679389313,
@@ -456,8 +456,8 @@
         },
         {
             "id": 15,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     26.309160305343518,
@@ -487,8 +487,8 @@
         },
         {
             "id": 16,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     16.576335877862597,
@@ -520,8 +520,8 @@
         },
         {
             "id": 17,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     40.24045801526717,
@@ -551,8 +551,8 @@
         },
         {
             "id": 18,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     36.232824427480914,
@@ -586,8 +586,8 @@
         },
         {
             "id": 19,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     39.47709923664123,
@@ -615,8 +615,8 @@
         },
         {
             "id": 20,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     44.8206106870229,
@@ -652,8 +652,8 @@
         },
         {
             "id": 21,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     44.24809160305343,
@@ -687,8 +687,8 @@
         },
         {
             "id": 22,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     91.00381679389312,
@@ -722,8 +722,8 @@
         },
         {
             "id": 23,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     82.03435114503816,
@@ -751,8 +751,8 @@
         },
         {
             "id": 24,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     16.958015267175576,
@@ -782,8 +782,8 @@
         },
         {
             "id": 25,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     39.667938931297705,
@@ -813,8 +813,8 @@
         },
         {
             "id": 26,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     46.72900763358779,
@@ -848,8 +848,8 @@
         },
         {
             "id": 27,
-            "image_id": 7,
-            "category_id": 1,
+            "image_id": 46,
+            "category_id": 4,
             "segmentation": [
                 [
                     23.63740458015267,
@@ -883,11 +883,11 @@
     "categories": [
         {
             "id": 1,
-            "name": "maduro"
+            "name": "Biche"
         },
         {
             "id": 2,
-            "name": "Biche"
+            "name": "Rojo"
         },
         {
             "id": 3,
@@ -895,7 +895,7 @@
         },
         {
             "id": 4,
-            "name": "rojo"
+            "name": "maduro"
         }
     ]
 }

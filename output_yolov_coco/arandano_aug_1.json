@@ -11,7 +11,7 @@
         {
             "id": 1,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     43.659763313609474,
@@ -88,7 +88,7 @@
         {
             "id": 2,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     67.03254437869823,
@@ -165,7 +165,7 @@
         {
             "id": 3,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     105.71597633136093,
@@ -232,7 +232,7 @@
         {
             "id": 4,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     78.2175572519084,
@@ -273,7 +273,7 @@
         {
             "id": 5,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     97.68320610687022,
@@ -312,7 +312,7 @@
         {
             "id": 6,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     97.49236641221373,
@@ -347,7 +347,7 @@
         {
             "id": 7,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     48.0648854961832,
@@ -386,7 +386,7 @@
         {
             "id": 8,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     80.88931297709922,
@@ -429,7 +429,7 @@
         {
             "id": 9,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     29.9351145038168,
@@ -468,7 +468,7 @@
         {
             "id": 10,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     39.28625954198474,
@@ -503,7 +503,7 @@
         {
             "id": 11,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     65.81297709923663,
@@ -536,7 +536,7 @@
         {
             "id": 12,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     70.20229007633588,
@@ -571,7 +571,7 @@
         {
             "id": 13,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     37.75954198473283,
@@ -604,7 +604,7 @@
         {
             "id": 14,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     116.00381679389312,
@@ -635,7 +635,7 @@
         {
             "id": 15,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     114.28625954198472,
@@ -664,7 +664,7 @@
         {
             "id": 16,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     61.99618320610687,
@@ -705,7 +705,7 @@
         {
             "id": 17,
             "image_id": 1,
-            "category_id": 1,
+            "category_id": 4,
             "segmentation": [
                 [
                     103.40839694656489,
@@ -739,11 +739,11 @@
     "categories": [
         {
             "id": 1,
-            "name": "maduro"
+            "name": "Biche"
         },
         {
             "id": 2,
-            "name": "Biche"
+            "name": "Rojo"
         },
         {
             "id": 3,
@@ -751,7 +751,7 @@
         },
         {
             "id": 4,
-            "name": "rojo"
+            "name": "maduro"
         }
     ]
 }

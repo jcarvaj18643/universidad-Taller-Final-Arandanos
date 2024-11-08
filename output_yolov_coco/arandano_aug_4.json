@@ -4,14 +4,14 @@
             "file_name": "arandano_aug_4.jpg",
             "height": 128,
             "width": 128,
-            "id": 5
+            "id": 39
         }
     ],
     "annotations": [
         {
             "id": 1,
-            "image_id": 5,
-            "category_id": 1,
+            "image_id": 39,
+            "category_id": 4,
             "segmentation": [
                 [
                     73.63740458015266,
@@ -47,8 +47,8 @@
         },
         {
             "id": 2,
-            "image_id": 5,
-            "category_id": 1,
+            "image_id": 39,
+            "category_id": 4,
             "segmentation": [
                 [
                     70.58396946564886,
@@ -84,8 +84,8 @@
         },
         {
             "id": 3,
-            "image_id": 5,
-            "category_id": 1,
+            "image_id": 39,
+            "category_id": 4,
             "segmentation": [
                 [
                     87.9503816793893,
@@ -121,8 +121,8 @@
         },
         {
             "id": 4,
-            "image_id": 5,
-            "category_id": 1,
+            "image_id": 39,
+            "category_id": 4,
             "segmentation": [
                 [
                     29.17175572519084,
@@ -160,8 +160,8 @@
         },
         {
             "id": 5,
-            "image_id": 5,
-            "category_id": 1,
+            "image_id": 39,
+            "category_id": 4,
             "segmentation": [
                 [
                     34.706106870229014,
@@ -199,8 +199,8 @@
         },
         {
             "id": 6,
-            "image_id": 5,
-            "category_id": 1,
+            "image_id": 39,
+            "category_id": 4,
             "segmentation": [
                 [
                     47.87404580152673,
@@ -238,8 +238,8 @@
         },
         {
             "id": 7,
-            "image_id": 5,
-            "category_id": 1,
+            "image_id": 39,
+            "category_id": 4,
             "segmentation": [
                 [
                     40.43129770992366,
@@ -287,8 +287,8 @@
         },
         {
             "id": 8,
-            "image_id": 5,
-            "category_id": 1,
+            "image_id": 39,
+            "category_id": 4,
             "segmentation": [
                 [
                     52.45419847328244,
@@ -324,8 +324,8 @@
         },
         {
             "id": 9,
-            "image_id": 5,
-            "category_id": 1,
+            "image_id": 39,
+            "category_id": 4,
             "segmentation": [
                 [
                     69.24809160305344,
@@ -367,8 +367,8 @@
         },
         {
             "id": 10,
-            "image_id": 5,
-            "category_id": 1,
+            "image_id": 39,
+            "category_id": 4,
             "segmentation": [
                 [
                     87.37786259541983,
@@ -406,8 +406,8 @@
         },
         {
             "id": 11,
-            "image_id": 5,
-            "category_id": 1,
+            "image_id": 39,
+            "category_id": 4,
             "segmentation": [
                 [
                     98.82824427480915,
@@ -445,8 +445,8 @@
         },
         {
             "id": 12,
-            "image_id": 5,
-            "category_id": 1,
+            "image_id": 39,
+            "category_id": 4,
             "segmentation": [
                 [
                     92.72137404580153,
@@ -486,8 +486,8 @@
         },
         {
             "id": 13,
-            "image_id": 5,
-            "category_id": 1,
+            "image_id": 39,
+            "category_id": 4,
             "segmentation": [
                 [
                     46.156488549618324,
@@ -521,8 +521,8 @@
         },
         {
             "id": 14,
-            "image_id": 5,
-            "category_id": 1,
+            "image_id": 39,
+            "category_id": 4,
             "segmentation": [
                 [
                     103.79007633587784,
@@ -562,11 +562,11 @@
     "categories": [
         {
             "id": 1,
-            "name": "maduro"
+            "name": "Biche"
         },
         {
             "id": 2,
-            "name": "Biche"
+            "name": "Rojo"
         },
         {
             "id": 3,
@@ -574,7 +574,7 @@
         },
         {
             "id": 4,
-            "name": "rojo"
+            "name": "maduro"
         }
     ]
 }
