@@ -7,6 +7,8 @@
 /labelme
 /labelme/*
 .idea/
+/datasets/*
+/output_final/*
 
 # Created by https://www.gitignore.io/api/macos,linux,django,python,pycharm
 
